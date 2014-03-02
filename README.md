@@ -18,8 +18,8 @@ Sublime Text > Preferences > Color Scheme > chonoDreamweaverCC-v1 > chonoDreamwe
 You can also change the font_face and font_size in Sublime to fully mimic Dreamweaver, by opening up:<br>
 Sublime Text > Preferences > Settings User, and add:
 <pre>
-"font_face": "Source Code Pro",<br>
-"font_size": 12.5,
+"font_face": "Source Code Pro",
+"font_size": 12.5
 </pre>
 <br>
 <br>
