@@ -21,9 +21,4 @@ Sublime Text > Preferences > Settings User, and add:
 "font_face": "Source Code Pro",
 "font_size": 12.5
 </pre>
-<br>
-<br>
-
 *Once back on your workspace you can try and adjust the font-size by holding down CMD and pressing either + or -.
-
-
