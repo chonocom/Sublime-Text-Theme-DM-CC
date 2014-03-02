@@ -142,6 +142,8 @@
 			<string>text.html source.php punctuation.section.embedded</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#F00</string>
 			</dict>
@@ -347,7 +349,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#099</string>
+				<string>#01aba9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -398,7 +400,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f90</string>
+				<string>#f91</string>
 			</dict>
 		</dict>
 		<dict>
@@ -409,7 +411,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C00</string>
+				<string>#c10000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -442,7 +444,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#06F</string>
+				<string>#0099ff</string>
 			</dict>
 		</dict>
 		<dict>
