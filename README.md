@@ -24,3 +24,7 @@ Sublime Text > Preferences > Settings User, and add:
 "font_size": 12.5
 </pre>
 *Once back on your workspace you can try and adjust the font-size by holding down CMD and pressing either + or -.
+<br>
+<strong>Roadmap</strong><br>
+There is none, but i will commit any further changes ad-hoc to the repo.<br>
+*If you improve the theme, please feel free to commit your improvements so that everybody can enjoy it!
