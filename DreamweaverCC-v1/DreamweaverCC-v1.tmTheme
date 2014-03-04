@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<!-- A Dreamweaver theme for Sublime Text 2 and 3 by Chono Hegelund - chono.com -->
+<!-- A DreamweaverCC theme for Sublime Text 2 and 3 -->
 <dict>
 	<key>author</key>
-	<string>Chono Hegelund (http://chono.com)</string>
+	<string>Chono Hegelund (http://chono.com & chonohegelund@gmail.com)</string>
 	<key>name</key>
-	<string>chonoDreamveaverCC-v1</string>
+	<string>DreamveaverCC</string>
 	<key>settings</key>
 	<array>
 		<dict>
