@@ -1,4 +1,4 @@
-Sublime Text: Dreamweaver CC Theme.
+Sublime Text: DreamweaverCC Theme.
 ==================================
 
 Dreamweaver CC (2014 v.13.2) theme for Sublime Text 2 and 3.<br>
