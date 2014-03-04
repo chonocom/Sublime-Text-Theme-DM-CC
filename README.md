@@ -1,7 +1,10 @@
 Sublime Text: Dreamweaver CC Theme.
 ==================================
 
-Dreamweaver theme for Sublime Text 2 and 3.
+Dreamweaver theme for Sublime Text 2 and 3.<br>
+Download Sublime Text here: <a href="http://sublimetext.com/" target="blank">http://sublimetext.com/</a>
+
+
 
 <strong>How to install:</strong><br>
 <ol>
