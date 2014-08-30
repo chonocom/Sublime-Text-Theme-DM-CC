@@ -4,8 +4,8 @@ Sublime Text: DreamweaverCC Theme.
 Dreamweaver CC (2014 v.13.2) theme for Sublime Text 2 and 3 (b. 3065).<br>
 https://twitter.com/chonocom<br>
 <br>
-Contributors:
-- https://github.com/tomgreenfield
+Contributors:<br>
+https://github.com/tomgreenfield<br>
 <br>
 
 <i>Download Sublime Text here: <a href="http://sublimetext.com/" target="_blank">http://sublimetext.com/</a></i>
