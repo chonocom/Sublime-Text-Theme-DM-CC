@@ -7,11 +7,11 @@ https://twitter.com/chonocom<br>
 Contributors:<br>
 https://github.com/tomgreenfield<br>
 <br>
-
 <i>Download Sublime Text here: <a href="http://sublimetext.com/" target="_blank">http://sublimetext.com/</a></i>
 
 
 <img src="https://github.com/chonohegelund/Sublime-Text-Theme-DreamweaverCC/blob/master/screenshot.jpg?raw=true">
+
 <strong>How to install:</strong><br>
 <ol>
 	<li>Locate the folder "Packages", by (In the Sublime Text Top Navbar) selecting: <u>Sublime Text</u> > Preferences > Browse Packages.</li>
