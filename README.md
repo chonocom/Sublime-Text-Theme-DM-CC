@@ -1,9 +1,13 @@
 Sublime Text: DreamweaverCC Theme.
 ==================================
 
-Dreamweaver CC (2014 v.13.2) theme for Sublime Text 2 and 3.<br>
+Dreamweaver CC (2014 v.13.2) theme for Sublime Text 2 and 3 (b. 3065).<br>
 https://twitter.com/chonocom<br>
-
+<br>
+Contributors:<br>
+- https://github.com/tomgreenfield<br>
+<br>
+<br>
 <i>Download Sublime Text here: <a href="http://sublimetext.com/" target="_blank">http://sublimetext.com/</a></i>
 
 
@@ -27,6 +31,7 @@ Sublime Text > Preferences > Settings User, and add:
 "font_size": 12.5
 </pre>
 *Once back on your workspace you can try and adjust the font-size by holding down CMD and pressing either + or -.
+<br>
 <br>
 <strong>Roadmap</strong><br>
 There is none, but i will commit future changes ad-hoc to the repo.<br>
