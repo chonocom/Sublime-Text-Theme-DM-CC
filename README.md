@@ -1,7 +1,7 @@
 Sublime Text: DreamweaverCC Theme.
 ==================================
 
-Dreamweaver CC (2014 v.13.2) theme for Sublime Text 2 and 3 (b. 3065).<br>
+Dreamweaver CC (2014 v.13.2) theme for Sublime Text 2 and 3 (b. 3083).<br>
 https://twitter.com/chonocom<br>
 <br>
 Contributors:<br>
@@ -30,6 +30,7 @@ Sublime Text > Preferences > Settings User, and add:
 "font_face": "Source Code Pro",
 "font_size": 12.5
 </pre>
+*Requires the font: Source Code Pro" (can be downloaded online for free (google it).
 *Once back on your workspace you can try and adjust the font-size by holding down CMD and pressing either + or -.
 <br>
 <br>
