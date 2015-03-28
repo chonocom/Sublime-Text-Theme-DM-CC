@@ -39,6 +39,6 @@ There is none, but i will commit future changes ad-hoc to the repo.<br>
 *If you improve the theme, please feel free to commit your improvements so that everybody can enjoy it!
 <br>
 <br>
-Also i can be reached at chonohegelund@gmail.com
+Also i can be reached at chonohegelund (at) gmail.com
 <br>
 <br>
