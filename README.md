@@ -30,10 +30,15 @@ Sublime Text > Preferences > Settings User, and add:
 "font_face": "Source Code Pro",
 "font_size": 12.5
 </pre>
-*Requires the font: Source Code Pro" (can be downloaded online for free (google it).
+*Requires the font: Source Code Pro" (can be downloaded online for free (google it).<br>
 *Once back on your workspace you can try and adjust the font-size by holding down CMD and pressing either + or -.
 <br>
 <br>
 <strong>Roadmap</strong><br>
 There is none, but i will commit future changes ad-hoc to the repo.<br>
 *If you improve the theme, please feel free to commit your improvements so that everybody can enjoy it!
+<br>
+<br>
+Also i can be reached at chonohegelund@gmail.com
+<br>
+<br>
