@@ -1,7 +1,7 @@
 Sublime Text: DM-CC Theme.
 ==================================
 
-DM CC (2014 v.13.2) theme for Sublime Text 2 and 3 (b. 3103).<br>
+DM CC (2014 v.13.2) theme for Sublime Text 3 (b. 3103).<br>
 <!-- <img src="https://github.com/chonohegelund/Sublime-Text-Theme-DreamweaverCC/blob/master/screenshot.jpg?raw=true"> -->
 <!-- <strong>How to install:</strong><br>
 <ol>
