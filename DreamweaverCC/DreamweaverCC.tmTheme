@@ -15,9 +15,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#fff</string>
+				<string>#f7f7f7</string>
 				<key>foreground</key>
-				<string>#000</string>
+				<string>#333</string>
 				<key>caret</key>
 				<string>#000</string>
 				<key>lineHighlight</key>
@@ -155,6 +155,8 @@
 			<string>text.html source.php punctuation.section.embedded</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#f1f1f1</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
@@ -403,8 +405,24 @@
 			<string>source.php</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#f1f1f1</string>
 				<key>foreground</key>
 				<string>#000</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Meta Brace</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+				<key>foreground</key>
+				<string>#bf4646</string>
 			</dict>
 		</dict>
 		<dict>
@@ -426,7 +444,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c10000</string>
+				<string>#3f8156</string>
 			</dict>
 		</dict>
 		<dict>
@@ -469,6 +487,8 @@
 			<string>source.php keyword, source.php support.function.construct</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
 				<string>#060</string>
 			</dict>
